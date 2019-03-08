@@ -1,3 +1,4 @@
+# wget -q https://raw.githubusercontent.com/integration-project-group-a/Server-Tools/master/templatesetup.sh -O templatesetup.sh && chmod +x templatesetup.sh && sudo ./templatesetup.sh && rm templatesetup.sh
 #Config file
 echo "Installing neofetch"
 apt install neofetch
